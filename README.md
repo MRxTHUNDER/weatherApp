@@ -1,16 +1,8 @@
-# weather_app
+# Introduction
+Welcome to the Weather App! This app provides you with current weather details and forecasts for various cities. The app is built using Flutter and leverages the OpenWeatherMap API to fetch real-time weather data.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+**Search City:** Enter a city name using a dropdown menu and get instant weather updates.
+**Current Weather:** View the current temperature, weather condition you can also refresh it.
+**Weather Forecast:** Get a 3 hour weather forecast for 5 consecutive time interval.
+**Additional Features:** Check additional weather parameters like humidity, wind speed, and pressure.
